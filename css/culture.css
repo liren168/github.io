@@ -1,0 +1,8 @@
+table{margin:5px 20px ;width:80%;border: thin solid  rgb(216, 215, 215);caption-side: bottom;}
+tr,td{border: thin dotted gray;padding: 3px;font-family: serif;font-size: 14px;}
+caption{font-style: italic;padding-top: 8px;font-size: 12px;}
+.container .inner .cont .cont_1{padding:10px 25px;text-align: left;}
+.container .inner .cont .cont_1 .cont-1-1{margin: 1px;padding: 5px;width: 47%;border: rgb(216, 215, 215) solid;border-radius: 16px;float: right;}
+.container .inner .cont .cont_1 .cont-1-2{margin: 1px;padding: 3px;width: 48%;border: rgb(216, 215, 215) solid;border-radius: 16px;}
+.container .inner .cont .cont_1 .cont-1-3{height: 500px;}
+.container .inner .cont .cont_1 .cont-1-3 img{position: relative;left: 0;bottom:-300px;width:40%;}

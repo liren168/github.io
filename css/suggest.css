@@ -1,0 +1,10 @@
+html, body, div, span, h1, h2, h3, p, blockquote, a, q, ol, ul, li,table,  tbody,  tr, th, td,  footer, header, nav {margin: 0;padding: 0;}
+ul,li{list-style: none;}
+.container{width:100%;margin: 50px auto;}
+.container-a{width:75%;margin:2px auto;padding:2px 1px 100px 1px;background:url(../images/背景3.jpg);border: slategray solid 2px;border-radius: 15px;}
+.container-a .title{color: slategrey; margin:20px auto;line-height: 50px;text-align: center;}
+.container-a .question1,.container-a .question2,.container-a .question3{margin:8px 50px;}
+.container-a .question2 .textarea,.container-a .question3 .text{border-radius: 6px;background: transparent;}
+.container-a .button{margin: 10px auto;}
+.container-a .buttonn{margin: 5px 20px;text-align: center;font-size: 16px;}
+.submit{padding:1px 2px;border: slategray solid 2px;border-radius: 6px;background: transparent;}
